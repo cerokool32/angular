@@ -5,6 +5,6 @@ angular.module('RDash').value('cgBusyDefaults', {
     backdrop: true,
     templateUrl: '../templates/loading.html',
     delay: 500,
-    minDuration: 1000,
+    minDuration: 10000,
     wrapperClass: 'my-class my-class2'
 });
