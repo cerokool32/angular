@@ -1,0 +1,2 @@
+// @koala-prepend "dashboard.min.js"
+angular.module('RDash', ['ui.bootstrap', 'ui.router', 'ngCookies']);
